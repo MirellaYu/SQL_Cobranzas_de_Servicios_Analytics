@@ -3,7 +3,7 @@
 <img width="490" height="300" alt="image" src="https://github.com/user-attachments/assets/995cbc82-9fb4-4511-8fe0-ec3fdbfd3d21" />
 </p>
 <p>
-Herramientas utilizadas: SQL Server
+Herramientas utilizadas: SQL Server, POWER BI
 </p>
 <p>
 •	Problema de Negocio: Una empresa de servicios necesita gestionar el estado de pago de sus clientes, pero no cuenta con un sistema que le permita identificar a tiempo qué clientes están acumulando deuda antes de llegar al corte del servicio. Actualmente no tienen visibilidad clara sobre qué servicios generan más morosidad, qué clientes representan mayor riesgo de impago, ni qué tan efectiva es su gestión de cobranza mes a mes. Esto genera pérdidas económicas y decisiones de cobranza poco informadas.
